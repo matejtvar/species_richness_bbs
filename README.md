@@ -6,14 +6,7 @@ This is a code for the final assignement of Spatial Data Science for Social Geog
 A route-based analysis of bird species richness across the contiguous United States, using BBS routes as the observational units and environmental predictors summarized along each route.
 
 
-Species richness as a key biodiversity metric
-
-Environmental gradients shaping bird diversity (productivity, topography, latitude)
-
-Importance of spatial scale and spatial structure in ecological analyses
-
-
-Research objectives
+### Research objectives
 
 Quantify spatial variation in bird species richness across the contiguous United States using BBS routes.
 
